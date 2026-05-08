@@ -1,0 +1,5 @@
+{
+  "name": "AI Investment Agent",
+  "description": "An AI-powered investment tracker for ETFs and mutual funds with Telegram alerts and dip analysis.",
+  "requestFramePermissions": []
+}
